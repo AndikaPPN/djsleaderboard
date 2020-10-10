@@ -1,0 +1,15 @@
+{
+  "name": "djsleaderboard",
+  "version": "0.0.1",
+  "description": "Discord.js Leaderboard Command.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "typings": "typings"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "IDika",
+  "license": "ISC"
+}
